@@ -1,6 +1,6 @@
-# deepseek-harness-awesome-top-500
+# awesome-deepseek-harness-top-500
 
-dsh asewome top 500
+asewome dsh top 500
 
 | 序号 | 项目 | 描述 | 分类 | Stars 徽章 |
 |---:|---|---|---|---|
