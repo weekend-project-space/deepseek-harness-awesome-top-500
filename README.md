@@ -505,3 +505,6 @@ asewome dsh top 500
 | 499 | [CZX2244/dsh-bilibili](https://github.com/CZX2244/dsh-bilibili) | B站视频分析工具：提取元数据、字幕文稿 | agent | ![Stars](https://img.shields.io/github/stars/CZX2244/dsh-bilibili?style=flat) |
 | 500 | [DamonKoy/dsh-web-ui](https://github.com/DamonKoy/dsh-web-ui/tree/main/packages/dsh-aionui-panel) | dsh web GUI 右侧面板系统：像 | ui | ![Stars](https://img.shields.io/github/stars/DamonKoy/dsh-web-ui?style=flat) |
 | 501 | [WSL043/DSH-Portable](https://github.com/WSL043/DSH-Portable) | dsh desktop GUI | ui | ![Stars](https://img.shields.io/github/stars/WSL043/DSH-Portable?style=flat) |
+| 502 | [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 本地优先的自托管 Agent Runtime：通过原生 DSH Bundle 与 stdio MCP Bridge 接入，提供持久会话、可恢复执行、权限、凭据、审计 / 回放，以及本地、Docker、Kubernetes 和自托管 Worker 沙箱路径 | 集成与部署 | ![Stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=flat) |
+
+
