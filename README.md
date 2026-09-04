@@ -506,5 +506,6 @@ asewome dsh top 500
 | 500 | [DamonKoy/dsh-web-ui](https://github.com/DamonKoy/dsh-web-ui/tree/main/packages/dsh-aionui-panel) | dsh web GUI 右侧面板系统：像 | ui | ![Stars](https://img.shields.io/github/stars/DamonKoy/dsh-web-ui?style=flat) |
 | 501 | [WSL043/DSH-Portable](https://github.com/WSL043/DSH-Portable) | dsh desktop GUI | ui | ![Stars](https://img.shields.io/github/stars/WSL043/DSH-Portable?style=flat) |
 | 502 | [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 本地优先的自托管 Agent Runtime：通过原生 DSH Bundle 与 stdio MCP Bridge 接入，提供持久会话、可恢复执行、权限、凭据、审计 / 回放，以及本地、Docker、Kubernetes 和自托管 Worker 沙箱路径 | 集成与部署 | ![Stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=flat) |
+| 503 | [KongFangXun/sofagent](https://github.com/KongFangXun/sofagent) | 开源（MIT）提交时审计 Harness：24 条 git diff 规则（密钥泄漏/越界改文件/危险命令）commit 前拦截，HMAC 审计链 + 快照回滚，另提供 80+ 工具 MCP server | 工作流与工程 | ![Stars](https://img.shields.io/github/stars/KongFangXun/sofagent?style=flat) |
 
 
